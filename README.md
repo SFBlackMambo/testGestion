@@ -1,1 +1,1 @@
-# Sistema de prueba
+# Sistema para realizar pruebas
